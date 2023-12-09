@@ -77,7 +77,7 @@ int main()
     cout << "E adalah East" << endl;
     cout << "S adalah South" << endl;
     cout << "W adalah West" << endl;
-    cout << "LTX menandakan ruangan di lantai X" << endl;
+    cout << "LTX menandakan lantai X" << endl;
     cout << '\n';
     cout << "Utara\x18   91X4      91X3" << endl;
     cout << "            ########" << endl;
