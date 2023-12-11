@@ -1,4 +1,8 @@
-# makalah-matdis2023
+# Tugas Makalah Matematika Diskrit IF2120
+
+## M. Hanief Fatkhan Nashrullah
+
+## 13522100
 
 How to run :
 
